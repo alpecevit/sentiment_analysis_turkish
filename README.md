@@ -1,6 +1,6 @@
 # Turkish Sentiment Analysis
 
-This Jupyter notebook, `bert_sentiment_ipynb`, contains the code for performing sentiment analysis for Turkish language using the BERT (Bidirectional Encoder Representations from Transformers) model.
+This Jupyter notebook, `bert_sentiment.ipynb`, contains the code for performing sentiment analysis for Turkish language using the BERT (Bidirectional Encoder Representations from Transformers) model.
 
 ### Prerequisites
 
